@@ -21,5 +21,4 @@ python sensitivity_analysis.py
 - Python ≥ 3.9
 - NumPy, Matplotlib, Tkinter (preinstalled with most Python installations)
 
-## License
-MIT
+
