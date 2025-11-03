@@ -9,11 +9,11 @@ It combines **Mathematica notebooks** for theoretical derivations with **Python 
 
 ```
 two-photon-IFM/
-├─ notebooks/
+├─ Mathematica notebooks/
 │  ├─ IFM_Calculations.nb
-│  └─ General_phase_sensitivity.nb
+│  └─ Coherent_phase_sensitivity.nb
 │
-├─ IFM_Project/
+├─ Python scripts/
 │  ├─ overlap_region_optimal.py
 │  ├─ overlap_regions_and_dose_reduction.py
 │  ├─ sensitivity_analysis.py
@@ -22,13 +22,13 @@ two-photon-IFM/
 │  └─ .gitignore
 ```
 
-### ▸ `notebooks/`
+### ▸ `Mathematica notebooks/`
 Contains **Wolfram Mathematica** notebooks for:
 - deriving single- and two-photon probability amplitudes,
 - computing IFM efficiency and dose-reduction metrics,
 - analyzing phase sensitivity and quantum advantage regions.
 
-### ▸ `IFM_Project/`
+### ▸ `Python scripts/`
 Contains the **Python implementation and visualization GUI** for reproducing and exploring IFM behavior numerically.
 
 ---
